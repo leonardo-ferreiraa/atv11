@@ -7,7 +7,7 @@ package Model;
 
 /**
  *
- * @author alunocmc
+ * @author 11211100857@alunos.umc.br 11211102089@alunos.umc.br
  */
 public class Aluno {
 
